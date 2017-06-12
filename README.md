@@ -26,5 +26,3 @@ Sadly, Rainer and his wife Sharen Seversen died in a tragic plane crash in Texas
 In keeping with Rainerâ€™s vision of providing open access to quality learning solutions to all people, the team decided to make MemoryLifter open source and make all learning content that was developed by LearnLift available to the community for free. MemoryLifter users can choose from over 80 comprehensive learning modules, many including audio and images, in a number of subject areas. 
 
 Thank you Rainer for your friendship, your generosity, and your humanity! 
-
-![Rainer](/docs/Home_rainer-sharen04.png?raw=true)
